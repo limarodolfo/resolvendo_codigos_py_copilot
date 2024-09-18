@@ -1,4 +1,4 @@
-# Vamos receber dois dados diferentes do usuário e concatená-los em uma única string.
+# Recebi dois dados diferentes do usuário e concatenei-os em uma única string.
 
 info1 = input("Digite a primeira informação: ")
 info2 = input("Digite a segunda informação: ")

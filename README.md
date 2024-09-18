@@ -1,24 +1,23 @@
 # Resolvendo códigos em Python Copilot
-Aqui veremos algumas resoluções de códigos em Python, utilizando o GitHub Copilot.
+Aqui vi algumas resoluções de códigos em Python, utilizando o GitHub Copilot.
 
-#### ATENÇÃO :warning:
+#### :warning: ATENÇÃO :warning:
 Não tem acesso ao **GitHub Copilot**?! Não tem problema. Que tal utilizar o [ChatGPT](https://chatgpt.com/) como seu copiloto de estudos?
 
 ## 1 - Concatenando Dados
-Vamos receber dois dados diferentes do usuário e concatená-los em uma única _string_.
+Recebi dois dados diferentes do usuário e concatenei-os em uma única _string_.
 
-#### O que aprenderemos?
+#### O que aprendi?
 
  - Manipulação de _strings_
  - Concatenação
  - Entrada de dados
  - Utilização eficiente do **GitHub Copilot**
 
-
 ## 2 - Repetindo textos
-Vamos solicitar uma *string* e um número inteiro como entrada. Depois teremos que retornar à *string* repetida o número de vezes informado.
+Solicitei uma *string* e um número inteiro como entrada. Depois retornei a *string* repetida ao número de vezes informado.
 
-#### O que aprenderemos? 
+#### O que aprendi? 
  - Manipulação de _strings_
  - Números inteiros (int)
  - Múltiplas repetições
@@ -26,9 +25,9 @@ Vamos solicitar uma *string* e um número inteiro como entrada. Depois teremos q
  - Aproveitar as sugestões do **GitHub Copilot**
 
  ## 3 - Operações matemáticas simples
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+Solicitei como entrada dois números e depois realizei uma operação simples entre eles.
 
-#### O que aprenderemos?
+#### O que aprendi?
  - Operações matemáticas básicas
  - Entrada de dados
  - Utilização eficiente do **GitHub Copilot**
